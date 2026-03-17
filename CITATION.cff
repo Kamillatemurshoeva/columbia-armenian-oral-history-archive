@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "columbia-armenian-oral-history-archive-scraper"
+message: "If you use this repository, please cite it as part of the Open Data Armenia project."
+type: software
+authors:
+  - family-names: "Open Data Armenia"
+    given-names: "Project"
+abstract: "Scraper and dataset for the Columbia Armenian Oral History Archive, part of the Open Data Armenia project documenting Armenian heritage worldwide."
+license: "MIT"
+keywords:
+  - Armenia
+  - Armenian heritage
+  - oral history
+  - metadata
+  - scraping
+  - Columbia University
+  - digital humanities
