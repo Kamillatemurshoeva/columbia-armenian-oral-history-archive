@@ -1,4 +1,4 @@
-# Columbia Armenian Oral History Archive Scraper — 
+# Columbia Armenian Oral History Archive Scraper 
 
 This repository contains a Python scraper designed to extract **metadata from the Columbia Armenian Oral History Archive**.
 
